@@ -9,6 +9,7 @@
 import cv2
 import numpy as np
 
+
 class cv2Utilities(object):
 
     def get_grayscale(self, image):
