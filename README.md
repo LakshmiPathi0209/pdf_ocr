@@ -1,2 +1,2 @@
 # pdf_ocr
-to extract data of pdf
+to extract data from pdf of any language
